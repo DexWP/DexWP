@@ -9,7 +9,7 @@ I've been learning to code for 1 year. I started my programming journey with the
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [ilaakubovic736@gmail.com](mailto:ilaakubovic736@gmail.com)
 * 🧠  I'm learning C++, CMake, C#, OpenGL, Vulkan.
-* 🤝  I'm open to collaborating on projects that are connected with games, engines, VR and etc.
+* 🤝  I'm open to collaborating on projects that are connected with C++, C#, games, engines, VR and etc.
 * ⚡  Plans on the this year: Learn C#, Vulkan, improve skills in OpenGL, Math(Linear Algebra, Atalytics geometrics and so on.), also improve language skills to robust B2.
 
 ### Skills
