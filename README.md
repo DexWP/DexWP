@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner game developer
 -----------------------
 
-I've been learning to code for 1 year. I started my programming journey with the C++ language. In the process, I learned the basic concepts of the language, OOP, basic data structures, and so on. At the moment I am interested in UE5, Unity, and developing my own game engine. When developing the engine, i use: CMake, C++, OpenGL, Vulkan, a self-written library that imitates the behavior of glm, ImGui, and so on. So, let's move to the more concrete info:
+I've been learning to code for 1 year. I started my programming journey with the C++ language. In the process, I learned the basic concepts of the language, OOP, basic data structures, and so on. At the moment I am interested in UE5, Unity, and developing my own game engine. When developing the engine, i use: CMake, C++, OpenGL, Vulkan, a self-written library that imitates the behavior of glm, also use ImGui, and so on. So, let's move to the more concrete info:
 
 * 🌍  I'm based in Belarus
 * ✉️  You can contact me at [ilaakubovic736@gmail.com](mailto:ilaakubovic736@gmail.com)
